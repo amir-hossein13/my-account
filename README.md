@@ -1,5 +1,5 @@
 # 💫 About Me:
-my name is amirhossein<br>🔭 I’m currently working on cms project only with Javascript<br><br>🌱 I’m currently learning Javascript<br><br>👨‍💻 All of my projects are available at https://github.com/amir-hossein13<br><br>📫 How to reach me telegram:@aa_alfa | instagram:aa_alfa13 | LinkedIn:amirhossein-attarnia
+my name is amirhossein<br>🔭 I’m currently working on learning react.js<br><br>🌱 I’m currently learning react<br><br>👨‍💻 All of my projects are available at https://github.com/amir-hossein13<br><br>📫 How to reach me telegram:@aa_alfa | instagram:aa_alfa13 | LinkedIn:amirhossein-attarnia
 
 
 ## 🌐 Socials:
